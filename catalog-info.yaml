@@ -8,4 +8,3 @@ spec:
   lifecycle: experimental
   target:
     - ./dir-target/target-dir-1/backstage.yaml
-    - ./dir-target/target-dir-2/backstage.yaml
