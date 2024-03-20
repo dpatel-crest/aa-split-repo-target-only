@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: target-dir-1
+  title: target-dir-1
+  description: Component for target-dir-1
+  annotations:
+    github.com/project-slug: target-dir-1
+  tags: 
+    - nodejs
+spec:
+  type: service
+  owner: unknown
+  lifecycle: experimental
