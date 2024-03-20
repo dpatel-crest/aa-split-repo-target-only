@@ -6,4 +6,5 @@ spec:
   type: url
   owner: dhrumit
   lifecycle: experimental
-  target: ./dir-target/target-dir-1/backstage.yaml
+  target: 
+    - ./dir-target/target-dir-1/backstage.yaml
