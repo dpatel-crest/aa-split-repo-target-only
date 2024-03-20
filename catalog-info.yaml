@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: split-repo-with-target
+  name: sample-split-monorepo
 spec:
   type: url
   owner: dhrumit
