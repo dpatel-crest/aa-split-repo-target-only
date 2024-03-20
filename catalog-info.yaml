@@ -4,6 +4,6 @@ metadata:
   name: split-repo-with-target
 spec:
   type: url
-  target:
+  targets:
     - ./dir-target/target-dir-1/backstage.yaml
     - ./dir-target/target-dir-2/backstage.yaml
